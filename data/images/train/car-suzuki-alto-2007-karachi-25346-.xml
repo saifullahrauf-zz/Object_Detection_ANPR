@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NP Images</folder>
+	<filename>car-suzuki-alto-2007-karachi-25346-.jpg</filename>
+	<path>C:\Users\Saifullah Rauf\Desktop\NP Images\car-suzuki-alto-2007-karachi-25346-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Number Plate (Car)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>439</ymin>
+			<xmax>452</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

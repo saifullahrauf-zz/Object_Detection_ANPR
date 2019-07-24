@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NP Images</folder>
+	<filename>number-plate.jpg</filename>
+	<path>C:\Users\Saifullah Rauf\Desktop\NP Images\number-plate.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Number Plate (Car)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>22</ymin>
+			<xmax>1174</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>
