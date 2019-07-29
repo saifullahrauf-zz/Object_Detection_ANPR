@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Model Testing Images</folder>
+	<filename>frame6175.jpg</filename>
+	<path>/home/saifullahrauf/Desktop/ANPR/Jupyter Notebook/Testing Notebook/Model Testing Images/frame6175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Number Plate (Car)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>500</ymin>
+			<xmax>569</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Number Plate (Car)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>299</ymin>
+			<xmax>325</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>
